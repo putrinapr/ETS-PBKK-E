@@ -1,0 +1,6 @@
+
+uploads/*.pdf
+
+application/config/database\.php
+
+\.DS_Store
